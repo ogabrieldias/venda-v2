@@ -71,7 +71,7 @@ export default function SobrePage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-secondary">
               <Image
-                src="https://images.unsplash.com/photo-1562141961-b5d1a83f6c00?w=800&q=80"
+                src="images/venda+faixada.jpeg"
                 alt="Showroom Venda+"
                 fill
                 className="object-cover"

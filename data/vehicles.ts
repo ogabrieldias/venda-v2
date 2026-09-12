@@ -241,8 +241,7 @@ export const vehicles: Vehicle[] = [
     status: 'available',
     featured: false,
     images: [
-      'https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&q=80',
-      'https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5?w=800&q=80',
+      'https://images.unsplash.com/photo-1511527844068-006b95d162c2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     ],
     description: 'Jeep Compass Limited com motor Turbo Flex. SUV versátil com capacidade off-road e conforto para o dia a dia urbano.',
     specs: {
@@ -270,8 +269,7 @@ export const vehicles: Vehicle[] = [
     status: 'available',
     featured: true,
     images: [
-      'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80',
-      'https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?w=800&q=80',
+      'https://images.unsplash.com/photo-1635073908681-b4dfbd6015e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8czEwMDBycnxlbnwwfHwwfHx8MA%3D%3D',
     ],
     description: 'BMW S 1000 RR - a superbike alemã que domina as pistas. Eletrônica de última geração com quickshifter bidirecional e controle de tração.',
     specs: {
@@ -326,8 +324,7 @@ export const vehicles: Vehicle[] = [
     status: 'available',
     featured: false,
     images: [
-      'https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?w=800&q=80',
-      'https://images.unsplash.com/photo-1558981001-5864b3250a69?w=800&q=80',
+      'https://images.unsplash.com/photo-1560319734-fe91ab681d85?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
     ],
     description: 'Kawasaki Ninja ZX-10R - campeã mundial de Superbike. Aerodinâmica otimizada em túnel de vento e motor de alta rotação.',
     specs: {
@@ -382,8 +379,7 @@ export const vehicles: Vehicle[] = [
     status: 'available',
     featured: false,
     images: [
-      'https://images.unsplash.com/photo-1609630875171-b1321377ee65?w=800&q=80',
-      'https://images.unsplash.com/photo-1558981359-219d6364c9c8?w=800&q=80',
+      'https://images.unsplash.com/photo-1630787283150-519a05fefee3?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     ],
     description: 'Yamaha MT-09 - o dark side do Japão. Naked street com motor 3 cilindros exclusivo que entrega torque linear e diversão garantida.',
     specs: {
@@ -410,8 +406,7 @@ export const vehicles: Vehicle[] = [
     status: 'sold',
     featured: false,
     images: [
-      'https://images.unsplash.com/photo-1558981420-87aa9dad1c89?w=800&q=80',
-      'https://images.unsplash.com/photo-1558981285-6f0c94958bb6?w=800&q=80',
+      'https://w0.peakpx.com/wallpaper/523/252/HD-wallpaper-honda-cb1000r-2021-exterior-front-view-new-black-cb1000r-japanese-motorcycles-honda.jpg',
     ],
     description: 'Honda CB 1000R Neo Sports Café - design retro-futurista com tecnologia moderna. Motor derivado da Fireblade com confiabilidade Honda.',
     specs: {
@@ -466,8 +461,7 @@ export const vehicles: Vehicle[] = [
     status: 'available',
     featured: true,
     images: [
-      'https://images.unsplash.com/photo-1558980664-10e7170b5df9?w=800&q=80',
-      'https://images.unsplash.com/photo-1558981359-219d6364c9c8?w=800&q=80',
+      'https://images.unsplash.com/photo-1582340172340-21b7e0a17b24?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8a3RtJTIwMTI5MHxlbnwwfHwwfHx8MA%3D%3D',
     ],
     description: 'KTM 1290 Super Duke R - "A Besta". A naked mais poderosa e radical do mercado com chassi super leve e potência absurda.',
     specs: {
